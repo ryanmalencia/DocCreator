@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/newbutton"
+        android:title="New"
+        android:onClick="newDoc"
+        />
+
+    <item
+        android:id="@+id/savebutton"
+        android:title="Save"
+        android:onClick="saveDoc"
+        />
+
+    <item
+        android:id="@+id/saveas"
+        android:title="Save As"
+        android:onClick="saveAs"
+        />
+
+    <item
+        android:id="@+id/openbutton"
+        android:title="Open"
+        android:onClick="openDoc"
+        />
+
+    <item
+        android:id="@+id/send"
+        android:title="Send"
+        android:onClick="Send"
+        />
+
+    <item
+        android:id="@+id/closebutton"
+        android:title="Close"
+        android:onClick="closeDoc"
+        />
+
+    <item
+        android:id="@+id/delete"
+        android:title="Delete"
+        android:onClick="deleteDoc"
+        />
+
+</menu>

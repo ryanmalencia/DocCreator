@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DocCreator</string>
+    <string name="titlestring">Welcome to DocCreator</string>
+    <string name="newdoc">New Doc</string>
+    <string name="editdoc">Edit Doc</string>
+    <string name="title_activity_blank_doc">BlankDoc</string>
+    <string name="title_activity_about">about</string>
+    <string name="title_activity_edit_doc">EditDoc</string>
+    <string name="title_activity_show_docs">showDocs</string>
+    <string name="new_doc_button">New Doc</string>
+    <string name="delete_option">Delete this doc?</string>
+</resources>
